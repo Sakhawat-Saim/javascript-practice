@@ -122,3 +122,10 @@ function movie(){
   }
   
   console.log(movie());
+
+
+  function sub(a, b) {
+    return a-b;
+  }
+
+  console.log(sub(10,2));
